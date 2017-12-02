@@ -104,3 +104,5 @@ Bugs and Issues
 [Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
 [Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
+这个是ss的备份自己用的其他人别下载
+违反任何法律我都不负责
